@@ -1,0 +1,32 @@
+import math
+while True:
+    x=float(input('Enter a number'))
+    y=float(input('Enter 2nd number'))
+    while True:
+        operator=input('Choose an operator')
+        if operator=='+':
+            print(x+y)
+        elif operator=='-':
+            print(x-y)
+        elif operator=='*':
+            print(x*y)
+        elif operator=='/':
+            if x==0 or y==0:
+                print('Division cannot be done invalid')
+            else:
+                print(x/y)
+        elif operator=='S':
+            print(math.sin(x))
+        elif operator=='C':
+            print(math.cos(x))
+        elif operator=='T':
+            print(math.tan(x))
+        elif operator=="E":
+            print("---Exit---")
+            break
+        else :
+            print("---Invalid please choose an operator---")
+
+
+
+

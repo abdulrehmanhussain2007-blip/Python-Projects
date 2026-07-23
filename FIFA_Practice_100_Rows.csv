@@ -1,0 +1,101 @@
+sofifa_id,short_name,age,height_cm,weight_kg,nationality,club,overall,potential,value_eur,wage_eur,preferred_foot,international_reputation,weak_foot,skill_moves,work_rate,team_position,pace,shooting,passing,dribbling,defending,physic
+100001,Player_1,26,184,86,Belgium,Liverpool,68,75,82430444,420040,Left,5,3,4,High/Low,GK,47,94,76,37,52,43
+100002,Player_2,37,171,65,England,Bayern Munich,77,87,174639855,12617,Left,1,4,2,High/Low,CDM,78,94,67,94,97,53
+100003,Player_3,23,177,70,Argentina,Barcelona,69,92,133927646,276736,Right,3,2,4,Medium/Medium,LW,71,89,88,88,33,53
+100004,Player_4,32,173,92,Spain,Real Madrid,85,82,156149045,395112,Right,3,4,4,High/High,GK,95,93,79,72,50,47
+100005,Player_5,23,166,85,Spain,Bayern Munich,91,85,137760399,355828,Left,4,4,2,High/Low,CM,94,77,68,31,71,74
+100006,Player_6,30,168,90,Belgium,PSG,70,90,91720149,409361,Right,4,5,1,High/Medium,CDM,83,61,58,88,90,95
+100007,Player_7,32,179,65,Argentina,Bayern Munich,79,81,49062343,452027,Left,2,2,4,High/Medium,LW,53,97,34,93,99,38
+100008,Player_8,20,198,67,Belgium,Liverpool,83,71,143308688,266998,Left,3,1,4,Medium/Medium,ST,44,70,99,63,84,99
+100009,Player_9,33,197,60,France,Manchester City,81,90,49933452,435821,Right,2,5,5,Medium/Medium,ST,75,93,68,85,39,70
+100010,Player_10,22,180,94,Portugal,Real Madrid,89,77,195987769,469192,Right,1,5,4,Medium/Medium,CDM,93,91,99,39,61,33
+100011,Player_11,36,195,80,France,Real Madrid,66,81,144907454,58072,Right,5,5,5,High/Medium,CDM,72,85,64,41,81,60
+100012,Player_12,22,165,70,France,Barcelona,80,85,154943017,300273,Left,4,3,2,Medium/Medium,RW,93,57,68,38,95,32
+100013,Player_13,32,180,70,England,Barcelona,65,74,50822871,223796,Left,1,5,1,High/High,GK,73,56,45,36,70,36
+100014,Player_14,23,189,78,Spain,Manchester City,83,71,3327327,69493,Left,4,2,1,High/Medium,RW,47,64,76,67,74,99
+100015,Player_15,27,184,78,Portugal,Real Madrid,94,77,64272406,245600,Left,5,1,3,Medium/Medium,CDM,99,92,84,44,78,79
+100016,Player_16,21,197,94,Germany,PSG,88,92,67507576,131107,Left,4,1,1,High/Low,CDM,34,49,37,72,49,47
+100017,Player_17,23,185,89,Brazil,Manchester City,78,71,190849144,257468,Left,4,5,5,High/Low,CB,80,66,95,56,68,72
+100018,Player_18,22,171,83,Portugal,Manchester City,91,71,54945047,233424,Left,4,3,1,High/High,ST,76,50,58,31,88,36
+100019,Player_19,20,173,92,Spain,Bayern Munich,70,79,156057203,275082,Left,2,2,2,High/Low,LW,42,44,30,68,59,40
+100020,Player_20,36,200,86,France,Manchester City,69,84,99455335,400908,Left,2,1,2,High/High,CDM,69,64,57,55,30,78
+100021,Player_21,24,166,79,France,Real Madrid,90,98,165005935,351900,Right,3,1,2,High/High,LW,55,90,39,79,30,96
+100022,Player_22,23,176,63,Belgium,Liverpool,71,75,72537056,383850,Right,3,4,2,High/Medium,RW,62,69,48,48,36,80
+100023,Player_23,32,197,71,Spain,Bayern Munich,90,75,20267003,25486,Left,4,4,5,High/Medium,ST,60,54,64,37,66,49
+100024,Player_24,24,189,65,Portugal,Liverpool,66,74,90930566,400910,Left,5,5,2,High/Low,GK,92,55,90,80,67,39
+100025,Player_25,28,173,91,Brazil,Manchester City,91,98,81315014,276953,Left,1,2,1,High/Low,LW,78,44,93,97,44,66
+100026,Player_26,33,179,68,Argentina,Bayern Munich,83,75,172579949,141300,Left,1,3,3,Medium/Medium,LW,80,79,64,48,72,89
+100027,Player_27,31,197,74,France,Real Madrid,92,73,112077522,153514,Left,4,3,3,High/Low,CM,45,69,58,81,92,97
+100028,Player_28,20,196,93,England,PSG,83,87,187162628,492886,Right,5,3,5,Medium/Medium,GK,48,92,88,85,73,80
+100029,Player_29,19,180,68,Portugal,Barcelona,95,88,70243240,251351,Left,1,1,3,High/Low,LW,91,41,50,34,70,78
+100030,Player_30,20,165,91,Portugal,Manchester City,74,95,162837589,89499,Left,2,5,3,Medium/Medium,ST,74,64,30,62,59,47
+100031,Player_31,37,191,84,Germany,Real Madrid,92,98,186648272,91233,Right,3,1,2,High/Low,GK,54,88,83,48,90,53
+100032,Player_32,25,195,82,Belgium,Real Madrid,87,81,174448829,263495,Right,2,1,1,Medium/Medium,CB,73,52,81,47,49,98
+100033,Player_33,38,191,85,Portugal,Manchester City,66,77,36361868,425507,Left,5,1,5,High/Low,LW,38,84,52,85,59,94
+100034,Player_34,37,194,80,Argentina,Bayern Munich,83,79,17708697,454066,Right,2,5,5,High/High,CB,62,64,75,50,80,99
+100035,Player_35,26,188,70,Belgium,PSG,83,70,36689082,36891,Right,2,2,4,High/High,CM,35,42,50,53,37,89
+100036,Player_36,18,172,82,Germany,Manchester City,70,91,114947109,444305,Left,3,1,3,Medium/Medium,CDM,66,58,82,32,38,56
+100037,Player_37,26,187,64,France,Barcelona,70,97,90792884,35172,Left,3,1,5,Medium/Medium,ST,40,89,49,65,96,46
+100038,Player_38,32,196,73,Belgium,Real Madrid,93,95,92255851,296891,Left,3,1,1,High/Low,RW,93,51,48,94,43,72
+100039,Player_39,31,192,73,Portugal,Manchester City,65,87,90201583,43208,Right,1,1,5,High/Low,GK,59,99,93,91,53,92
+100040,Player_40,38,197,67,Germany,Real Madrid,77,85,75189805,265398,Left,5,4,5,High/Medium,CM,51,60,80,45,75,79
+100041,Player_41,18,192,66,Germany,Manchester City,94,99,88563784,466661,Right,4,5,5,High/Medium,LW,67,53,60,30,73,32
+100042,Player_42,32,171,68,England,Liverpool,65,80,90993024,227906,Left,1,1,5,High/Low,ST,79,49,69,53,99,38
+100043,Player_43,35,166,72,France,Manchester City,78,94,4261485,496170,Right,4,5,5,High/Low,LW,96,97,68,84,45,83
+100044,Player_44,27,197,74,Spain,Real Madrid,92,96,177741940,263184,Left,5,1,5,High/Low,RW,32,56,55,58,83,87
+100045,Player_45,18,165,62,Argentina,Liverpool,91,87,198311986,454881,Left,1,2,3,Medium/Medium,CDM,34,65,44,46,37,48
+100046,Player_46,27,168,81,Belgium,Liverpool,66,89,140086881,355050,Right,2,5,1,High/High,RW,70,78,47,70,87,55
+100047,Player_47,26,182,85,France,Bayern Munich,87,82,114898437,104355,Right,1,3,4,Medium/Medium,LW,72,35,42,89,77,99
+100048,Player_48,37,190,83,Portugal,Real Madrid,85,99,113069172,341925,Left,1,1,3,High/Low,CM,67,60,65,39,99,77
+100049,Player_49,31,190,87,Brazil,PSG,85,82,10690194,435287,Right,4,4,2,High/Low,GK,47,56,36,89,63,30
+100050,Player_50,31,199,86,Germany,Real Madrid,87,80,74251452,393154,Left,1,5,5,Medium/Medium,CB,38,38,69,41,67,50
+100051,Player_51,31,196,76,England,PSG,71,70,39392797,236511,Left,1,3,1,High/High,LW,61,85,94,49,78,52
+100052,Player_52,38,172,81,England,Liverpool,67,71,33852505,264268,Left,3,3,2,Medium/Medium,RW,40,48,30,94,95,50
+100053,Player_53,23,169,67,Brazil,Barcelona,92,85,124058910,450692,Left,1,2,1,High/Medium,LW,50,99,55,59,59,94
+100054,Player_54,23,183,64,Belgium,Bayern Munich,88,90,188393732,496897,Right,5,2,5,High/Medium,RW,41,97,78,43,80,39
+100055,Player_55,36,185,72,England,Bayern Munich,91,82,29569061,313599,Left,3,1,2,High/Medium,CDM,68,60,82,56,85,80
+100056,Player_56,21,184,86,Portugal,Barcelona,80,88,52358811,108186,Left,1,4,5,Medium/Medium,RW,72,51,78,87,78,52
+100057,Player_57,36,165,80,France,Manchester City,87,74,104158784,440171,Right,5,4,3,High/Medium,LW,54,78,92,61,35,64
+100058,Player_58,23,192,63,Belgium,Bayern Munich,92,72,688782,496351,Right,1,3,3,High/High,RW,33,74,64,67,46,39
+100059,Player_59,38,179,92,Argentina,Manchester City,95,92,113680501,301665,Right,1,4,4,High/High,RW,60,38,42,42,99,31
+100060,Player_60,36,179,78,Germany,Manchester City,69,80,37099408,256734,Left,5,1,3,High/Medium,CM,92,91,97,88,47,70
+100061,Player_61,18,188,62,Argentina,Liverpool,72,77,166358001,29953,Right,2,5,3,High/High,RW,48,32,57,62,80,92
+100062,Player_62,34,190,86,Spain,Bayern Munich,85,73,83216879,248841,Right,4,1,2,High/High,CM,62,51,87,98,75,99
+100063,Player_63,35,196,87,Belgium,PSG,75,73,113554806,315618,Right,2,3,3,High/Low,CM,52,50,82,52,65,69
+100064,Player_64,20,183,64,England,Barcelona,81,91,113541983,38044,Left,2,2,3,Medium/Medium,LW,71,64,67,96,76,39
+100065,Player_65,33,190,83,Belgium,PSG,72,85,162608004,279272,Left,3,1,2,Medium/Medium,RW,77,39,66,86,79,90
+100066,Player_66,19,197,89,Portugal,Manchester City,75,89,50032622,254789,Left,3,5,2,High/Medium,GK,45,64,56,44,86,69
+100067,Player_67,25,185,65,England,Liverpool,94,91,92931686,276455,Left,3,2,4,High/Medium,CB,75,30,65,50,89,87
+100068,Player_68,38,191,87,England,Barcelona,91,87,96080321,292104,Left,4,4,2,High/High,CB,67,95,50,59,64,95
+100069,Player_69,38,175,65,Spain,PSG,75,90,34675125,327650,Left,2,3,2,High/High,ST,84,62,36,58,48,93
+100070,Player_70,28,176,92,Brazil,PSG,69,75,101161909,477032,Left,5,5,1,High/Medium,CDM,77,61,46,82,81,77
+100071,Player_71,21,174,89,Brazil,Barcelona,90,84,192165922,290754,Left,5,2,5,Medium/Medium,LW,51,53,98,60,62,50
+100072,Player_72,25,173,62,Spain,Real Madrid,76,73,131779253,381530,Left,3,1,1,High/High,GK,64,55,52,59,70,75
+100073,Player_73,18,184,92,Argentina,Manchester City,67,83,939943,262716,Left,3,4,1,High/Medium,CB,63,71,62,99,31,75
+100074,Player_74,24,195,67,Germany,Bayern Munich,89,96,133057791,495157,Right,5,3,2,High/Medium,ST,58,98,97,90,66,56
+100075,Player_75,35,182,76,Argentina,Liverpool,86,91,185671862,412862,Left,4,1,3,Medium/Medium,CB,41,37,31,62,68,42
+100076,Player_76,37,167,64,Belgium,PSG,94,82,2562900,300631,Right,3,5,1,High/Medium,CB,32,53,61,87,78,35
+100077,Player_77,38,197,70,Spain,Manchester City,88,84,159695716,274719,Left,2,1,2,High/Low,CB,84,80,31,86,96,94
+100078,Player_78,24,174,75,Brazil,Manchester City,87,81,27572282,72703,Right,3,4,1,High/Low,ST,62,66,73,30,45,95
+100079,Player_79,20,189,80,Brazil,Manchester City,67,97,134286823,78207,Right,5,2,1,High/Low,RW,37,32,61,42,94,90
+100080,Player_80,31,185,63,Brazil,Real Madrid,81,84,142719027,158024,Right,2,4,1,High/Low,CB,32,78,77,87,59,98
+100081,Player_81,19,194,62,England,Barcelona,86,88,18731622,36056,Left,2,5,1,High/High,CDM,69,95,70,51,63,94
+100082,Player_82,33,165,91,Argentina,Barcelona,92,97,11145630,393943,Left,3,3,4,Medium/Medium,CDM,50,32,53,61,67,46
+100083,Player_83,19,170,82,England,Liverpool,75,94,44265717,291362,Right,2,4,4,High/Low,ST,80,56,77,43,88,38
+100084,Player_84,27,180,81,Germany,Liverpool,88,81,159543092,445261,Left,1,2,1,Medium/Medium,LW,37,93,76,59,52,55
+100085,Player_85,37,193,70,Portugal,PSG,73,75,174345252,207773,Left,4,1,2,High/Low,RW,69,99,91,74,43,76
+100086,Player_86,23,165,65,Portugal,Bayern Munich,85,74,180105110,164968,Right,1,1,5,Medium/Medium,LW,36,64,72,92,67,59
+100087,Player_87,21,180,60,Portugal,Liverpool,94,89,198096936,152597,Left,2,4,1,Medium/Medium,GK,46,72,80,38,49,78
+100088,Player_88,27,180,87,Portugal,PSG,88,73,88249831,497588,Right,3,2,2,High/Low,CDM,82,30,95,99,91,78
+100089,Player_89,38,184,80,Portugal,Barcelona,70,91,83453678,31369,Right,5,3,3,High/High,ST,65,86,58,54,93,49
+100090,Player_90,20,180,78,Brazil,Barcelona,78,73,60296146,18607,Right,4,1,5,High/Low,GK,34,34,53,67,52,50
+100091,Player_91,30,175,78,France,Manchester City,72,95,196746173,350219,Right,4,1,1,High/High,RW,84,34,56,55,37,64
+100092,Player_92,36,174,91,Brazil,Manchester City,92,98,17350356,122343,Left,5,2,2,Medium/Medium,LW,33,54,52,67,40,30
+100093,Player_93,21,186,87,Germany,Real Madrid,65,81,31036272,188022,Right,1,2,5,High/High,LW,89,45,41,86,33,32
+100094,Player_94,27,197,72,Brazil,Liverpool,77,85,84170797,32630,Left,3,5,3,High/Medium,CM,86,59,88,94,72,75
+100095,Player_95,21,196,82,Argentina,Barcelona,77,99,11748587,419017,Right,2,1,5,High/High,LW,87,43,67,62,67,60
+100096,Player_96,18,191,91,Spain,Real Madrid,69,86,98721697,444616,Right,5,1,3,High/Medium,GK,43,81,71,95,75,90
+100097,Player_97,22,186,92,Brazil,PSG,75,80,138010314,139291,Left,5,2,3,Medium/Medium,LW,45,32,47,54,32,90
+100098,Player_98,34,189,65,England,Liverpool,65,93,139744121,421714,Right,1,2,4,High/High,CDM,34,97,39,70,69,37
+100099,Player_99,38,196,90,France,PSG,81,97,116105660,167288,Left,4,5,1,High/Low,CDM,91,72,39,87,77,57
+100100,Player_100,30,190,61,Portugal,Barcelona,89,78,176494218,56525,Left,4,1,4,Medium/Medium,ST,75,47,88,93,34,66
